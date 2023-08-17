@@ -27,6 +27,6 @@ In order to connect to the server please go to **Multiplayer** and then **Add ne
 
 ## Discord
 
-You should have received an invite to our Discord with the invitation to the server. If you did not get an invitation but want one you can check [this](/guides/become_a_member) page out. All the information that you need to know should be available in the **Info** channel.
+You should have received an invite to our Discord with the invitation to the server. If you did not get an invitation but want one you can check [this](/guides/become_a_member) page out. All the information that you need to navigate the discord should be available in the **Info** channel.
 
 **Happy gaming!**
