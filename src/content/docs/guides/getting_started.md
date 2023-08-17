@@ -11,7 +11,7 @@ At JayCraft we value performance, nothing more annoying than lag when you're try
 
 ![Find fabric loader](../../../assets/fabric-loader-installed.png "Find fabric loader in Minecraft launcher")
 
-Another option is to use one of countless different launchers that exists. We recommend using for example [GDLauncher](https://gdlauncher.com/) or [Prism](https://prismlauncher.org/) but you may find that others suits your need more! We don't officially provide any support for those launches since we didn't develop them but if you ask on our Discord maybe someone knows.
+Another option is to use one of countless different launchers that exists. We recommend using for example [GDLauncher](https://gdlauncher.com/) or [Prism](https://prismlauncher.org/) but you may find that others suits your needs more! We don't officially provide any support for those launches since we didn't develop them but if you ask on our Discord maybe someone knows.
 
 ## Installing mods
 
