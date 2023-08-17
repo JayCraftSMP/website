@@ -17,6 +17,14 @@ Another option is to use one of countless different launchers that exists. We re
 
 As you may be aware we don't use a lot of mods and especially not if they tinker with the vanilla experience. But if you want to you're free to install `Simple Voice Mod` which will provide you with an in game proximity chat (like they have on Hermitcraft) but it's not enforced. To install it simply download the it from [Curseforge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) and place the `.jar` file in your mods folder. You should be able to find the mods folder in `C:\Users\[User_Name]\AppData\Roaming\. minecraft\` on Windows and in `~/Library/Application Support/minecraft/mods` on Mac. Another mod that we recommend for an enhanced experience is [Sodium](https://modrinth.com/mod/sodium) that will enhance performance similarly to [Optifine](https://www.optifine.net/home). Neither of these are required and you're free to experiment as you see fit.
 
+## Connecting to the server
+
+In order to connect to the server please go to **Multiplayer** and then **Add new server** and fill in the appropriate details. Our server address is `jaycraft.xyz:3000`!
+
+![Add new server](../../../assets/add_new_server.png "Add a new server")
+
+![Add the server details](../../../assets/creating_new_connection.png "Add the server details")
+
 ## Discord
 
 You should have received an invite to our Discord with the invitation to the server. If you did not get an invitation but want one you can check [this](/guides/become_a_member) page out. All the information that you need to know should be available in the **Info** channel.
