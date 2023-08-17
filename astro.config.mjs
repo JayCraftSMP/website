@@ -11,7 +11,7 @@ export default defineConfig({
       social: {
         youtube: "https://www.youtube.com/channel/UCGmZHw7yD5EdaEx_1i5ylRQ",
         twitter: "https://twitter.com/JayCraftSMP",
-        github: "https://github.com/withastro/starlight",
+        github: "https://github.com/JayCraftSMP",
       },
       sidebar: [
         {
