@@ -26,6 +26,14 @@ export default defineConfig({
               label: "Becoming a member",
               link: "/guides/become_a_member",
             },
+            {
+              label: "Rules",
+              link: "/guides/rules",
+            },
+            {
+              label: "FAQ",
+              link: "/guides/faq",
+            },
           ],
         },
       ],
