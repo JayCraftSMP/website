@@ -15,7 +15,7 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: "Guides",
+          label: "Content",
           items: [
             // Each item here is one entry in the navigation menu.
             {
